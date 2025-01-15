@@ -1,9 +1,8 @@
-import { SidebarProvider } from "@/components/ui/sidebar";
-import { CrmSidebar } from "@/components/CrmSidebar";
+import React from "react";
 
 const Index = () => {
   return (
-    <h1></h1>
+    <h1>oi</h1>
   );
 };
 
